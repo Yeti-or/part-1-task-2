@@ -23,6 +23,6 @@
     "part-1-task-2-test-2": "git://github.com/hse2016/part-1-task-2-test-2.git",
     "part-1-task-2-test-3": "git://github.com/hse2016/part-1-task-2-test-3.git",
     "part-1-task-2-test-4": "git://github.com/hse2016/part-1-task-2-test-4.git",
-    "request": "^2.75.0"
+    "request": "^2.83.0"
   }
 }
