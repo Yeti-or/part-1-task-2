@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "main": "README.md",
   "engines": {
-    "node": "6.2.0"
+    "node": "10"
   },
   "license": "MIT",
   "scripts": {
